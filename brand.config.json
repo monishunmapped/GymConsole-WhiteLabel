@@ -1,0 +1,16 @@
+{
+  "name": "Your Gym",
+  "tagline": "Fitness Studio",
+  "logoUrl": "",
+  "address": "Street, City, State, PIN",
+  "phone": "+91 00000 00000",
+  "email": "hello@yourgym.com",
+  "website": "www.yourgym.com",
+  "gstin": "",
+  "upiId": "",
+  "currency": "₹",
+  "countryCode": "91",
+  "taxRate": 18,
+  "receiptNote": "Thank you for training with us!",
+  "paymentQrUrl": ""
+}
